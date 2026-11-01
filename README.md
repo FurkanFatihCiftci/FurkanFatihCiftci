@@ -10,7 +10,7 @@
 <p>
 <a href="https://github.com/FurkanFatihCiftci"><img src="https://img.shields.io/badge/GitHub-FurkanFatihCiftci-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/furkan-fatih-ciftci"><img src="https://img.shields.io/badge/LinkedIn-Furkan%20Fatih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="https://huggingface.co/SkyWalkertT1"><img src="https://img.shields.io/badge/🤗%20HuggingFace-SkyWalkertT1-FFD21E?style=for-the-badge"/></a>
+<a href="https://huggingface.co/FurkanFatihCiftci"><img src="https://img.shields.io/badge/🤗%20HuggingFace-FurkanFatihCiftci-FFD21E?style=for-the-badge"/></a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=FurkanFatihCiftci&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views"/>
@@ -128,9 +128,9 @@ motto: "Where Flutter meets AI, magic happens ✨"
 
 | Model | Type | Size | Description |
 |:---:|:---:|:---:|:---|
-| [`turkish_bert_stock_market_classification_sentiment`](https://huggingface.co/SkyWalkertT1/turkish_bert_stock_market_classification_sentiment) | Text Classification | 0.1B | 🇹🇷 Turkish stock market sentiment analysis with fine-tuned BERT |
-| [`crypto_bert_sentiment`](https://huggingface.co/SkyWalkertT1/crypto_bert_sentiment) | Text Classification | 0.1B | 🪙 Crypto market sentiment classifier |
-| [`stock_market_dataset`](https://huggingface.co/datasets/SkyWalkertT1/stock_market_dataset) | Dataset | 5.46K rows | 📈 Curated dataset for financial NLP |
+| [`turkish_bert_stock_market_classification_sentiment`](https://huggingface.co/FurkanFatihCiftci/turkish_bert_stock_market_classification_sentiment) | Text Classification | 0.1B | 🇹🇷 Turkish stock market sentiment analysis with fine-tuned BERT |
+| [`crypto_bert_sentiment`](https://huggingface.co/FurkanFatihCiftci/crypto_bert_sentiment) | Text Classification | 0.1B | 🪙 Crypto market sentiment classifier |
+| [`stock_market_dataset`](https://huggingface.co/datasets/FurkanFatihCiftci/stock_market_dataset) | Dataset | 5.46K rows | 📈 Curated dataset for financial NLP |
 
 </div>
 
@@ -175,7 +175,7 @@ motto: "Where Flutter meets AI, magic happens ✨"
 
 <p>
 <a href="https://www.linkedin.com/in/furkan-fatih-ciftci"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/furkan-fatih-ciftci"/></a>
-<a href="https://huggingface.co/SkyWalkertT1"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
+<a href="https://huggingface.co/FurkanFatihCiftci"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
 <a href="https://github.com/FurkanFatihCiftci"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
