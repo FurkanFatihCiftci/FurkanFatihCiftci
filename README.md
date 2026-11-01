@@ -93,12 +93,12 @@ motto: "Where Flutter meets AI, magic happens ✨"
 <div align="center">
 
 <!-- STREAK STATS -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SKYWALKERT1&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="700"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=FurkanFatihCiftci&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=1f6feb&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&sideLabels=8b949e&dates=6e7681" width="700"/>
 
 <br/>
 
 <!-- ACTIVITY GRAPH -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SKYWALKERT1&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FurkanFatihCiftci&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff&area=true&area_color=1f6feb&hide_border=true&custom_title=Contribution%20Graph" width="95%"/>
 
 </div>
 
@@ -108,14 +108,14 @@ motto: "Where Flutter meets AI, magic happens ✨"
 ## 🚀 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/SKYWALKERT1/Breast_Canser_Analyst_Neatrual_Networks">
-    <img src="https://gh-card.dev/repos/SKYWALKERT1/Breast_Canser_Analyst_Neatrual_Networks.svg?fullname=" width="32%"/>
+  <a href="https://github.com/FurkanFatihCiftci/Breast_Canser_Analyst_Neatrual_Networks">
+    <img src="https://gh-card.dev/repos/FurkanFatihCiftci/Breast_Canser_Analyst_Neatrual_Networks.svg?fullname=" width="32%"/>
   </a>
-  <a href="https://github.com/SKYWALKERT1/artificial-intelligence-face-detection">
-    <img src="https://gh-card.dev/repos/SKYWALKERT1/artificial-intelligence-face-detection.svg?fullname=" width="32%"/>
+  <a href="https://github.com/FurkanFatihCiftci/artificial-intelligence-face-detection">
+    <img src="https://gh-card.dev/repos/FurkanFatihCiftci/artificial-intelligence-face-detection.svg?fullname=" width="32%"/>
   </a>
-  <a href="https://github.com/SKYWALKERT1/article-abstract-analyst">
-    <img src="https://gh-card.dev/repos/SKYWALKERT1/article-abstract-analyst.svg?fullname=" width="32%"/>
+  <a href="https://github.com/FurkanFatihCiftci/article-abstract-analyst">
+    <img src="https://gh-card.dev/repos/FurkanFatihCiftci/article-abstract-analyst.svg?fullname=" width="32%"/>
   </a>
 </div>
 
@@ -143,13 +143,13 @@ motto: "Where Flutter meets AI, magic happens ✨"
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SKYWALKERT1&theme=github_dark" width="95%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FurkanFatihCiftci&theme=github_dark" width="95%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SKYWALKERT1&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SKYWALKERT1&theme=github_dark" width="32%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SKYWALKERT1&theme=github_dark&utcOffset=3" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=FurkanFatihCiftci&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=FurkanFatihCiftci&theme=github_dark" width="32%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=FurkanFatihCiftci&theme=github_dark&utcOffset=3" width="32%"/>
 
 </div>
 
@@ -160,9 +160,9 @@ motto: "Where Flutter meets AI, magic happens ✨"
 
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SKYWALKERT1/SKYWALKERT1/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SKYWALKERT1/SKYWALKERT1/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SKYWALKERT1/SKYWALKERT1/output/github-snake-dark.svg" width="100%"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FurkanFatihCiftci/FurkanFatihCiftci/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FurkanFatihCiftci/FurkanFatihCiftci/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/FurkanFatihCiftci/FurkanFatihCiftci/output/github-snake-dark.svg" width="100%"/>
 </picture>
 </div>
 
@@ -176,7 +176,7 @@ motto: "Where Flutter meets AI, magic happens ✨"
 <p>
 <a href="https://www.linkedin.com/in/furkan-fatih-ciftci"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/furkan-fatih-ciftci"/></a>
 <a href="https://huggingface.co/SkyWalkertT1"><img src="https://img.shields.io/badge/-HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/></a>
-<a href="https://github.com/SKYWALKERT1"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+<a href="https://github.com/FurkanFatihCiftci"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
 </p>
 
 <br/>
