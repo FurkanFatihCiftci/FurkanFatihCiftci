@@ -8,12 +8,12 @@
 
 <!-- SOCIAL BADGES -->
 <p>
-<a href="https://github.com/SKYWALKERT1"><img src="https://img.shields.io/badge/GitHub-SKYWALKERT1-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://github.com/FurkanFatihCiftci"><img src="https://img.shields.io/badge/GitHub-FurkanFatihCiftci-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/furkan-fatih-ciftci"><img src="https://img.shields.io/badge/LinkedIn-Furkan%20Fatih-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://huggingface.co/SkyWalkertT1"><img src="https://img.shields.io/badge/🤗%20HuggingFace-SkyWalkertT1-FFD21E?style=for-the-badge"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=SKYWALKERT1&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=FurkanFatihCiftci&style=for-the-badge&color=1f6feb&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
 
